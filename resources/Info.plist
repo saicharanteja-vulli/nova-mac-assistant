@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Nova</string>
+	<key>CFBundleExecutable</key>
+	<string>Nova</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.jarvis.pro</string>
+	<key>CFBundleName</key>
+	<string>Nova</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Nova listens for Hey Nova, wake up while wake listening is enabled, and transcribes speech during a call.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Nova uses Apple speech recognition for wake phrases and calls. Audio may be processed by Apple.</string>
+</dict>
+</plist>
